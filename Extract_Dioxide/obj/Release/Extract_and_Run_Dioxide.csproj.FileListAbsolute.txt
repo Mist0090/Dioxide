@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\NICE　GAME\Extract_Dioxide\bin\Release\Dioxide.exe.config
+C:\Users\Owner\source\repos\NICE　GAME\Extract_Dioxide\bin\Release\Dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\Extract_Dioxide\bin\Release\Dioxide.pdb
+C:\Users\Owner\source\repos\NICE　GAME\Extract_Dioxide\obj\Release\Extract_and_Run_Dioxide.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\NICE　GAME\Extract_Dioxide\obj\Release\Extract_and_Run_Dioxide.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\NICE　GAME\Extract_Dioxide\obj\Release\Dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\Extract_Dioxide\obj\Release\Dioxide.pdb

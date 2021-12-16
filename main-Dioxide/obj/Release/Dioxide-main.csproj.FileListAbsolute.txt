@@ -1,0 +1,18 @@
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Release\dioxide.exe.config
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Release\dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Release\dioxide.pdb
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\Dioxide-main.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\DIOXIDE.Properties.Resources.resources
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\Dioxide-main.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\Dioxide-main.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\dioxide.pdb
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\bin\Release\dioxide.exe.config
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\bin\Release\dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\bin\Release\dioxide.pdb
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\Dioxide-main.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\DIOXIDE.Properties.Resources.resources
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\Dioxide-main.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\Dioxide-main.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\dioxide.pdb

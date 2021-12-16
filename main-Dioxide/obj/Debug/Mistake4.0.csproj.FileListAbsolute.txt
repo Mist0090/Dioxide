@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Debug\MISTAKE.Properties.Resources.resources
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Debug\Mistake4.0.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Debug\Mistake4.0.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Debug\Mistake4.0.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Debug\Mistake4.0.exe.config
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Debug\Mistake4.0.exe
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Debug\Mistake4.0.pdb
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Debug\Mistake4.0.exe
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Debug\Mistake4.0.pdb
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Debug\MISTAKE.WatchProcess.resources

@@ -1,0 +1,35 @@
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Release\dioxide.exe.config
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Release\dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\bin\Release\dioxide.pdb
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\Dioxide-main.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\DIOXIDE.Properties.Resources.resources
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\Dioxide-main.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\Dioxide-main.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\NICE　GAME\obj\Release\dioxide.pdb
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\bin\Release\dioxide.exe.config
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\bin\Release\dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\bin\Release\dioxide.pdb
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\Dioxide-main.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\DIOXIDE.Properties.Resources.resources
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\Dioxide-main.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\Dioxide-main.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\dioxide.exe
+C:\Users\Owner\source\repos\NICE　GAME\main-Dioxide\obj\Release\dioxide.pdb
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\bin\Release\dioxide.exe.config
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\bin\Release\dioxide.exe
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\bin\Release\dioxide.pdb
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\obj\Release\Dioxide-main.csproj.AssemblyReference.cache
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\obj\Release\DIOXIDE.Properties.Resources.resources
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\obj\Release\Dioxide-main.csproj.GenerateResource.cache
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\obj\Release\Dioxide-main.csproj.CoreCompileInputs.cache
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\obj\Release\dioxide.exe
+C:\Users\Owner\デスクトップ\dioxide2\main-Dioxide\obj\Release\dioxide.pdb
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide2.0\main-Dioxide\bin\Release\Dioxide.exe.config
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide2.0\main-Dioxide\bin\Release\Dioxide.exe
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide2.0\main-Dioxide\bin\Release\Dioxide.pdb
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide2.0\main-Dioxide\obj\Release\DIOXIDE.Properties.Resources.resources
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide2.0\main-Dioxide\obj\Release\Dioxide-main.csproj.GenerateResource.cache
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide2.0\main-Dioxide\obj\Release\Dioxide-main.csproj.CoreCompileInputs.cache
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide2.0\main-Dioxide\obj\Release\Dioxide.exe
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide2.0\main-Dioxide\obj\Release\Dioxide.pdb

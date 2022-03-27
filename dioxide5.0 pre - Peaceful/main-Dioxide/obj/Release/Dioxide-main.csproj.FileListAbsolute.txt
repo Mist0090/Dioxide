@@ -1,0 +1,18 @@
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\bin\Release\Dioxide.exe.config
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\bin\Release\Dioxide.exe
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\bin\Release\Dioxide.pdb
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\obj\Release\Dioxide-main.csproj.AssemblyReference.cache
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\obj\Release\DIOXIDE.Properties.Resources.resources
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\obj\Release\Dioxide-main.csproj.GenerateResource.cache
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\obj\Release\Dioxide-main.csproj.CoreCompileInputs.cache
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\obj\Release\Dioxide.exe
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0\main-Dioxide\obj\Release\Dioxide.pdb
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\bin\Release\Dioxide.exe.config
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\bin\Release\Dioxide.exe
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\bin\Release\Dioxide.pdb
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\obj\Release\Dioxide-main.csproj.AssemblyReference.cache
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\obj\Release\DIOXIDE.Properties.Resources.resources
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\obj\Release\Dioxide-main.csproj.GenerateResource.cache
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\obj\Release\Dioxide-main.csproj.CoreCompileInputs.cache
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\obj\Release\Dioxide.exe
+C:\Users\Owner\デスクトップ\Virus\Dioxide\dioxide5.0 pre - Peaceful\main-Dioxide\obj\Release\Dioxide.pdb

